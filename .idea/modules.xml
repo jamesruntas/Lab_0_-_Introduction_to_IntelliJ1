@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab_0_-_Introduction_to_IntelliJ1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab_0_-_Introduction_to_IntelliJ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.0 Overview/1.1/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.1.iml" filepath="$PROJECT_DIR$/.idea/modules/1.0 Overview/1.1/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.0 Overview/1.1/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.0 Overview/1.1/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.0 Overview/1.1/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.0 Overview/1.1/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.0 Overview/1.2/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.2.iml" filepath="$PROJECT_DIR$/.idea/modules/1.0 Overview/1.2/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.0 Overview/1.2/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.0 Overview/1.2/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.0 Overview/1.2/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.0 Overview/1.2/Lab_0_-_Introduction_to_IntelliJ1.1.0_Overview-1.2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2.0 Lab Problem/2.1/Lab_0_-_Introduction_to_IntelliJ1.2.0_Lab_Problem-2.1.iml" filepath="$PROJECT_DIR$/.idea/modules/2.0 Lab Problem/2.1/Lab_0_-_Introduction_to_IntelliJ1.2.0_Lab_Problem-2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2.0 Lab Problem/2.1/Lab_0_-_Introduction_to_IntelliJ1.2.0_Lab_Problem-2.1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2.0 Lab Problem/2.1/Lab_0_-_Introduction_to_IntelliJ1.2.0_Lab_Problem-2.1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2.0 Lab Problem/2.1/Lab_0_-_Introduction_to_IntelliJ1.2.0_Lab_Problem-2.1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/2.0 Lab Problem/2.1/Lab_0_-_Introduction_to_IntelliJ1.2.0_Lab_Problem-2.1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Lab_0_-_Introduction_to_IntelliJ1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Lab_0_-_Introduction_to_IntelliJ1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Lab_0_-_Introduction_to_IntelliJ1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Lab_0_-_Introduction_to_IntelliJ1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Lab_0_-_Introduction_to_IntelliJ1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Lab_0_-_Introduction_to_IntelliJ1.util.test.iml" />
+    </modules>
+  </component>
+</project>

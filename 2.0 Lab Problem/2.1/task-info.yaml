@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/IgnoreThisFile.java
+  visible: true
+  text: |
+    public class IgnoreThisFile {
+    }
+  learner_created: false
+- name: src/Problem.java
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  time: Fri, 15 Jan 2021 20:06:06 UTC
+record: -1
+post_submission_on_open: true
